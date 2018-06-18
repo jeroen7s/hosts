@@ -1010,72 +1010,6 @@
 127.0.0.1 zh-cn.facebook.com
 127.0.0.1 zh-tw.facebook.com
 
-# Twitter
-# Twitter
-127.0.0.1 www.twitter.com
-127.0.0.1 twitter.com
-127.0.0.1 pbs.twimg.com
-127.0.0.1 abs.twimg.com
-127.0.0.1 syndication.twitter.com
-127.0.0.1 0.twitter.com
-127.0.0.1 about.twitter.com
-127.0.0.1 access.twitter.com
-127.0.0.1 ads.twitter.com
-127.0.0.1 api-test.twitter.com
-127.0.0.1 api.twitter.com
-127.0.0.1 api2.twitter.com
-127.0.0.1 api4.twitter.com
-127.0.0.1 apps.twitter.com
-127.0.0.1 blog.twitter.com
-127.0.0.1 brand.twitter.com
-127.0.0.1 business.twitter.com
-127.0.0.1 calendar.twitter.com
-127.0.0.1 cards-dev.twitter.com
-127.0.0.1 cards.twitter.com
-127.0.0.1 content.twitter.com
-127.0.0.1 dev-about.twitter.com
-127.0.0.1 dev-blog.twitter.com
-127.0.0.1 dev-brand.twitter.com
-127.0.0.1 dev-business.twitter.com
-127.0.0.1 dev-horizon.twitter.com
-127.0.0.1 dev-jobs.twitter.com
-127.0.0.1 dev-marketing.twitter.com
-127.0.0.1 dev.twitter.com
-127.0.0.1 download.twitter.com
-127.0.0.1 election.twitter.com
-127.0.0.1 eng.twitter.com
-127.0.0.1 events.twitter.com
-127.0.0.1 horizon.twitter.com
-127.0.0.1 info.twitter.com
-127.0.0.1 jobs.twitter.com
-127.0.0.1 m.twitter.com
-127.0.0.1 mail.twitter.com
-127.0.0.1 marketing.twitter.com
-127.0.0.1 mobile.twitter.com
-127.0.0.1 mux.twitter.com
-127.0.0.1 mx.twitter.com
-127.0.0.1 mx1.twitter.com
-127.0.0.1 mx2.twitter.com
-127.0.0.1 mx3.twitter.com
-127.0.0.1 mx4.twitter.com
-127.0.0.1 pulse.twitter.com
-127.0.0.1 s.twitter.com
-127.0.0.1 search.twitter.com
-127.0.0.1 search2.twitter.com
-127.0.0.1 sites.twitter.com
-127.0.0.1 sms.twitter.com
-127.0.0.1 static.twitter.com
-127.0.0.1 support.twitter.com
-127.0.0.1 td.twitter.com
-127.0.0.1 upload.twitter.com
-127.0.0.1 video.twitter.com
-127.0.0.1 www.twitter.com
-127.0.0.1 www2.twitter.com
-127.0.0.1 www4.twitter.com
-127.0.0.1 platform.twitter.com
-127.0.0.1 cdn.syndication.twimg.com
-127.0.0.1 t.co
-
 # Instagram
 127.0.0.1 api.instagram.com
 127.0.0.1 black.ish.instagram.com
@@ -1157,12 +1091,6 @@
 127.0.0.1 white.ish.instagram.com
 127.0.0.1 www.instagram.com
 
-# LinkedIn
-127.0.0.1 static.licdn.com
-127.0.0.1 www.linkedin.com
-127.0.0.1 media.licdn.com
-127.0.0.1 platform.linkedin.com
-
 # MySpace
 127.0.0.1 browseusers.myspace.com
 127.0.0.1 classifieds.myspace.com
@@ -1225,22 +1153,7 @@
 127.0.0.1 trk.pinterest.com
 127.0.0.1 uk.pinterest.com
 
-# tumblr
-127.0.0.1 tumblr.com
-127.0.0.1 www.tumblr.com
-127.0.0.1 cookiex.ngd.yahoo.com
-127.0.0.1 px.srvcs.tumblr.com
-127.0.0.1 secure.assets.tumblr.com
-127.0.0.1 36.media.tumblr.com
-127.0.0.1 38.media.tumblr.com
-
 # google plus
 127.0.0.1 plus.google.com
 127.0.0.1 plus.l.google.com
 
-# Reddit
-127.0.0.1 i.reddit.com
-127.0.0.1 nsfw.reddit.com
-127.0.0.1 redd.it
-127.0.0.1 reddit.com
-127.0.0.1 www.reddit.com
